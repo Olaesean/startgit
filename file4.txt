@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file4-local.txt
+=======
+file4-github.txt
+>>>>>>> branch 'master' of https://github.com/Olaesean/startgit.git
