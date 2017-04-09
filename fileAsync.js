@@ -11,3 +11,5 @@ fs.readFile('file2.txt','utf8', function(error, text){
 });
 
 console.log("After Second Read\n");
+
+console.log("After Second Read11\n");
